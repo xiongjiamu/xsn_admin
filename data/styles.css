@@ -9,6 +9,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .heading_1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -59,6 +61,10 @@
 }
 .line {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -75,6 +81,8 @@
 }
 .flow_shape {
 }
+.connector {
+}
 .box_1 {
 }
 .box_2 {
@@ -84,4 +92,7 @@
 .box_3 {
 }
 .icon {
+}
+.marker {
+  color:#FFFFFF;
 }
